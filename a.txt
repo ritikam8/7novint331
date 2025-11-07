@@ -1,2 +1,3 @@
 echo "hello how are u?"
-
+pwd
+ls
